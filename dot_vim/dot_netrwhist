@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/root/.local/share/chezmoi'
+let g:netrw_dirhist_7='/root/.local/share/chezmoi/.git'
+let g:netrw_dirhist_6='/root/.local/share/chezmoi'
+let g:netrw_dirhist_5='/root/.vim/bundle/supertab/ftplugin'
+let g:netrw_dirhist_4='/root/.vim/bundle/supertab'
+let g:netrw_dirhist_3='/root/.vim/bundle/supertab/doc'
+let g:netrw_dirhist_2='/usr/share/vim/vim82/autoload'
+let g:netrw_dirhist_1='/home/chivi/.ipython/profile_default'
