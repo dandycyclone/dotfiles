@@ -9,10 +9,24 @@ augroup END
 syntax on
 filetype indent plugin on
 
+color desert
 set number
 set background=dark
 set wildmenu
-set hidden
+set hidden " https://vi.stackexchange.com/questions/8357/vim-hide-buffer-like-in-emacs
+set ruler
+
+set autoindent
+set hlsearch
+
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set showmatch
+
+set ignorecase
+set smartcase
 " }}}
 
 " Status Line settings ------------------------------ {{{

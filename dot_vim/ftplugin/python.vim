@@ -1,9 +1,3 @@
-set tabstop=4
-set expandtab
-set shiftwidth=4
-set softtabstop=4
-
-set showmatch
 set textwidth=72
 set colorcolumn=+1
 
